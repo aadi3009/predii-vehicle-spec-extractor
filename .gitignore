@@ -1,0 +1,12 @@
+# virtualenv
+.venv/
+
+# outputs (generated files)
+outputs/
+
+# python cache
+__pycache__/
+*.pyc
+
+# env secrets
+.env
