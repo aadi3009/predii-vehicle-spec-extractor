@@ -32,17 +32,6 @@ outputs/
 (auto-generated)
 README.md
 
-```
-
-### Put your PDF here
-Rename your service manual PDF to `manual.pdf` and place it here:
-
-```
-
-vehicle-spec-extractor/data/manual.pdf
-
-````
-
 ---
 
 ## Setup (Windows PowerShell)
@@ -174,16 +163,3 @@ Each extracted record follows this schema:
 
 ---
 
-## Example Queries to Try
-
-* `Engine oil capacity`
-* `Torque for wheel lug nuts`
-* `Brake caliper mounting bolt torque`
-* `Part number for differential carrier assembly`
-* `Transmission fluid type`
-
-```
-
-If you want, I can also give you a `run_all.ps1` that runs Steps 1→5 in one command.
-::contentReference[oaicite:0]{index=0}
-```
